@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "ClinicaGoF.API": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7150;http://localhost:5170",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "launchUrl": "swagger"
+    }
+  }
+}
