@@ -4,6 +4,7 @@
 
 ## ClinicaGoF é uma aplicação ASP.NET Core 9 (Web API) desenvolvida com arquitetura limpa (Clean Architecture) e princípios SOLID, voltada para o ensino de Design Patterns (GoF), testes automatizados e boas práticas em APIs REST.
 
+
 ## 🚀 Tecnologias Utilizadas
 
 - .NET 9
